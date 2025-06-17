@@ -1,9 +1,4 @@
 streamlit
-speech-recognition
-pyttsx3
-streamlit-webrtc
+SpeechRecognition
 numpy
-pandas
-plotly
-gtts
-pygame
+pyttsx3

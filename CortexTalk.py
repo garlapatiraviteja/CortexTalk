@@ -1405,6 +1405,9 @@ def main():
                 <a href="https://twitter.com/cortexneural" class="contact-link">
                     🌐 QUANTUM.FEED
                 </a>
+                <a href="https://www.instagram.com/cor.textalk?igsh=MmVzMjYydW5tejht" class="contact-link">
+                    🌐 QUANTUM.INSTA
+                </a>
                 <a href="https://discord.gg/cortexai" class="contact-link">
                     💬 AI.COLLECTIVE
                 </a>

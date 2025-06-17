@@ -1402,10 +1402,7 @@ def main():
                 <a href="mailto:abdul99.rc@gmail.com" class="contact-link">
                     📧 NEURAL.SUPPORT
                 </a>
-                <a href="https://twitter.com/cortexneural" class="contact-link">
-                    🌐 QUANTUM.FEED
-                </a>
-                <a href="https://www.instagram.com/cor.textalk?igsh=MmVzMjYydW5tejht" class="contact-link">
+               <a href="https://www.instagram.com/cor.textalk?igsh=MmVzMjYydW5tejht" class="contact-link">
                     🌐 QUANTUM.INSTA
                 </a>
                 <a href="https://discord.gg/cortexai" class="contact-link">

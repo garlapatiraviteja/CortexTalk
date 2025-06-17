@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pyaudio
+torch
+numpy
+pyttsx3
+streamlit-webrtc
